@@ -1,6 +1,6 @@
 {
-	"name": "calnconv",
-	"displayName": "calnconv",
+	"name": "calcnconv",
+	"displayName": "calcnconv",
 	"description": "just a handy calculator",
 	"version": "0.0.1",
 	"engines": {
@@ -16,13 +16,13 @@
 	"contributes": {
 		"keybindings": [
 			{
-				"command": "calnconv.calculate",
+				"command": "calcnconv.calculate",
 				"key": "shift+f1",
 				"mac": "shift+f1",
 				"when": "textInputFocus"
 			},
 			{
-				"command": "calnconv.pxToRem",
+				"command": "calcnconv.pxToRem",
 				"key": "shift+f2",
 				"mac": "shift+f2",
 				"when": "textInputFocus"
@@ -30,12 +30,12 @@
 		],
 		"commands": [
 			{
-				"command": "calnconv.calculate",
+				"command": "calcnconv.calculate",
 				"title": "Calculate",
 				"category": "CNC"
 			},
 			{
-				"command": "calnconv.pxToRem",
+				"command": "calcnconv.pxToRem",
 				"title": "px-to-rem",
 				"category": "CNC"
 			}
