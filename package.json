@@ -4,6 +4,7 @@
 	"description": "just a handy calculator",
 	"publisher": "fuckeer",
 	"version": "0.0.1",
+	"icon": "logo.png",
 	"engines": {
 		"vscode": "^1.75.0"
 	},
