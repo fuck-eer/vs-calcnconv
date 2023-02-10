@@ -7,6 +7,9 @@
 	"engines": {
 		"vscode": "^1.75.0"
 	},
+	"repository": {
+		"url": "https://github.com/fuck-eer/vs-calcnconv"
+	},
 	"categories": [
 		"Other"
 	],
