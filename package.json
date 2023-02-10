@@ -3,7 +3,7 @@
 	"displayName": "calcnconv",
 	"description": "just a handy calculator",
 	"publisher": "fuckeer",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"icon": "logo.png",
 	"engines": {
 		"vscode": "^1.75.0"
